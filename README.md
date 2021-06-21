@@ -6,11 +6,12 @@ The Automated Breast Ultrasound (ABUS) images are rendered in 3D and can be view
 * renders an interactive 3D model of the DICOM file
 * colour and brightness of the rendered object can be changed with the sliders
 * frames of the Ultrasound scan be viewed in 3 planes
-* ![3 planes](https://teachmeanatomy.info/wp-content/uploads/The-Anatomical-Planes-of-the-Human-Body-1.jpg)
+
+![3 planes](https://teachmeanatomy.info/wp-content/uploads/The-Anatomical-Planes-of-the-Human-Body-1.jpg)
 
 ### Application ###
 * Helps radiologists in detecting the lesions
 * This Application can also be used for visualizing Ultrasound scans of any part of the body
-* 
+
 ![ABUS Image](ABUSgui.png)
 
